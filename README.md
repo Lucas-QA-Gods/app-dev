@@ -3,6 +3,7 @@ My First Repository
 
 # Favorite Movie
 ![fight club image](fight.jpg)
+
 **Title:** *Fight Club*
 **Directed by:**	David Fincher
 **Screenplay by:**	Jim Uhls
