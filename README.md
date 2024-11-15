@@ -2,7 +2,7 @@
 My First Repository
 
 # Favorite Movie
-![fight club image](fight.https://movieswithaplottwist.com/wp-content/uploads/2016/03/fight-club.25541.jpg)
+![fight club image](fight.jpg)
 **Title:** *Fight Club*
 **Directed by:**	David Fincher
 **Screenplay by:**	Jim Uhls
