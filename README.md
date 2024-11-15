@@ -5,9 +5,13 @@ My First Repository
 ![fight club image](fight.jpg)
 
 **Title:** *Fight Club*
+
 **Directed by:**	David Fincher
+
 **Screenplay by:**	Jim Uhls
+
 **Based on:**	*Fight Club* by Chuck Palahniuk
+
 **Starring:** 
 -Brad Pitt
 -Edward Norton
