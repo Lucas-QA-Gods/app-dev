@@ -18,3 +18,5 @@ My First Repository
 -Helena Bonham Carter
 -Meat Loaf
 -Jared Leto
+
+>"It's only after we've lost everything that we're free to do anything."
